@@ -1,0 +1,73 @@
+.contenedor{
+    width: left;
+    height: 800pt;
+    background-color: black;
+}
+#barra1{
+    width: left;
+    height: 50px;
+    background-color:#151515;
+}
+.texmenu{
+    text-decoration: none;
+    float: right;
+    color: white;
+    width: 20%;
+    margin-top: 15px;
+    margin-left: 15px;
+   
+
+}
+#foto{
+    margin: 15px;
+}
+#bien{
+    color: white;
+    text-align: center;
+   margin-top: 70px;
+   font-size: 50px;
+}
+.fotobien{
+    margin-top: 25px;
+    text-align: center;
+}
+.texto1{
+    color: white;
+    margin-top: 25px;
+    text-align: center;
+}
+#texmenu{
+    color:white ;
+    text-align: center;
+    margin-top: 70px;
+    font-size: 50px;
+}
+.amarillo{
+    color: yellow;
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+.textbla{
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 234px;
+}
+.pecios{
+    color: white;
+    font-size: 25px;
+    margin-top: 248px;
+    margin-left: 500px;
+}
+.preio2{
+    color: white;
+}
+#menu{
+    background-color: transparent;
+    cursor: pointer;
+    border: transparent;
+    padding: 0px 6px;
+    color: white;
+}
+
